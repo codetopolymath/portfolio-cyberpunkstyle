@@ -1,0 +1,10 @@
+"Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+"Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+"The Pragmatic Programmer: From Journeyman to Master" by Andrew Hunt and David Thomas
+"Introduction to the Theory of Computation" by Michael Sipser
+"Refactoring: Improving the Design of Existing Code" by Martin Fowler
+"Code Complete" by Steve McConnell
+"Algorithms" by Robert Sedgewick and Kevin Wayne
+"The Mythical Man-Month" by Frederick Brooks
+"Agile Estimating and Planning" by Mike Cohn
+"Don't Make Me Think" by Steve Krug.
